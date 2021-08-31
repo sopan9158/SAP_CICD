@@ -1,0 +1,12 @@
+#
+#Tue Aug 31 10:54:13 UTC 2021
+Enable\ Log=false
+Service\ Request\ Timeout\ (in\ min)=1
+Start\ Timer=<row><cell>dayValue</cell><cell></cell></row><row><cell>monthValue</cell><cell></cell></row><row><cell>yearValue</cell><cell></cell></row><row><cell>dateType</cell><cell>DAILY</cell></row><row><cell>secondValue</cell><cell>0</cell></row><row><cell>minutesValue</cell><cell></cell></row><row><cell>hourValue</cell><cell></cell></row><row><cell>toInterval</cell><cell>1</cell></row><row><cell>fromInterval</cell><cell>0</cell></row><row><cell>OnEveryMinute</cell><cell>1</cell></row><row><cell>timeType</cell><cell>TIME_INTERVAL</cell></row><row><cell>timeZone</cell><cell>( UTC 0\:00 ) Greenwich Mean Time(Etc/GMT)</cell></row><row><cell>triggerType</cell><cell>cron</cell></row><row><cell>noOfSchedules</cell><cell>1</cell></row><row><cell>schedule1</cell><cell>0+0/1+0-0+?+*+*+*&amp;trigger.timeZone\=Etc/GMT</cell></row>
+CI\ Tenant\ Base\ URL=https\://d75d82e9trial.it-cpitrial02.cfapps.eu10-001.hana.ondemand.com
+Service\ Resource\ Events\ URL=
+CI\ Technical\ Client\ Name=CPI_credentials
+CI\ Authentication\ Type=Basic
+Service\ Technical\ Client\ Name=SERVICE_TECHNICAL_CLIENT
+Source\ Event\ ID\ Strategy\ (Optional)=
+CI\ Request\ Timeout\ (in\ min)=1
